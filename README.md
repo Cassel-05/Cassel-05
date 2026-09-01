@@ -50,8 +50,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cassel-05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassel-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://raw.githubusercontent.com/Cassel-05/github-stats-generator/generated/generated/overview.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/Cassel-05/github-stats-generator/generated/generated/languages.svg" width="48%" />
 </p>
 
 <p align="center">

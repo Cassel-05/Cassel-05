@@ -42,7 +42,7 @@
 
 ### 🖥️ Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker,vbox" />
 </p>
 
 ---

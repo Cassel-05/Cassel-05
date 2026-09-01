@@ -32,12 +32,12 @@
 
 ### 🌐 Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,angular,nodejs" />
 </p>
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite,postgres" />
 </p>
 
 ### 🖥️ Tools & Technologies

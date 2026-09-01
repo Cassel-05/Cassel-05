@@ -51,7 +51,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cassel-05/github-stats-generator/generated/overview.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/Cassel-05/github-stats-generator/generated/generated/languages.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/Cassel-05/github-stats-generator/generated/languages.svg" width="48%" />
 </p>
 
 <p align="center">

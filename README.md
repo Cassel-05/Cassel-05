@@ -19,21 +19,30 @@
 - 🚀 Always learning and improving my skills
 
 ---
-🛠️ LANGUAGES & TOOLS
-   → Python
-   → Java
-   → C++
-   → JavaScript
-   → Angular
-   → SQL
-   → Linux
+## 🛠️ Languages and Tools
 
-🚀 FEATURED PROJECTS
-   → AI Projects
-   → Computer Vision
-   → Web Development
-   → Server Labs
+### 💻 Programming Languages
 
-📊 GITHUB STATS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,php" />
+</p>
 
-🌐 CONNECT WITH ME
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,angular" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🖥️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker" />
+</p>
+
+---

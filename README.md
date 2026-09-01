@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Deybi Urupeque</h1>
 
-<!--
-**Cassel-05/Cassel-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  💻 Systems Engineering Student | Developer | 🇵🇪 Peru
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Systems+Engineering+Student;Passionate+about+Technology;Always+Learning+and+Building" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Systems Engineering Student
+- 💻 Passionate about Software Development
+- 🤖 Interested in Artificial Intelligence and Computer Vision
+- 🖥️ Learning about Linux, Servers and Cybersecurity
+- 🚀 Always learning and improving my skills
+
+---
+🛠️ LANGUAGES & TOOLS
+   → Python
+   → Java
+   → C++
+   → JavaScript
+   → Angular
+   → SQL
+   → Linux
+
+🚀 FEATURED PROJECTS
+   → AI Projects
+   → Computer Vision
+   → Web Development
+   → Server Labs
+
+📊 GITHUB STATS
+
+🌐 CONNECT WITH ME

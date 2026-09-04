@@ -49,10 +49,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cassel-05/github-stats-generator/generated/overview.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/Cassel-05/github-stats-generator//languages.svg" width="48%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cassel-05&theme=tokyonight&hide_border=true&background=0D1117" />
